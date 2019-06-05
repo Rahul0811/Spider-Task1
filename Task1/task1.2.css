@@ -1,0 +1,17 @@
+div
+{
+	text-align: center;
+	background: rgb(135,109,31);
+	line-height: 20px;
+	width: 1355px;
+	margin: 0px;
+	font-family: Comic Sans MS;
+	border:5px solid skyblue; 
+	border-radius: 5px;
+}
+canvas
+{
+	background-image: url(images.png);
+	margin-top: 0px;
+	padding-top: 0px;
+}
